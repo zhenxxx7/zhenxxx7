@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zhenxxx7&label=Profile%20views&color=0e75b6&style=flat" alt="zhenxxx7" /> </p>
 
 
-- 👯 I’m looking to collaborate on [WSA-Community](https://github.com/zhenxxx7/WSAGAScript.git)
+- 👯 I’m looking to collaborate on
 
 - 🤝 I’m looking for help with [Movie-App-React](https://github.com/zhenxxx7/Movie-App-React.git)
 
