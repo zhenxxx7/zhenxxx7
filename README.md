@@ -19,3 +19,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zhenxxx7&show_icons=true&locale=en&layout=compact" alt="zhenxxx7" /></p>
 
 <p><a href="https://discord.com/users/569005102824685596"><img src="https://lanyard.cnrad.dev/api/569005102824685596?borderRadius=20px&bg=00000000" alt="Discord" /></a> </p>
+
+
+
+![GitHub Snake Light](https://github.com/zhenxxx7/zhenxxx7/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](https://github.com/zhenxxx7/zhenxxx7/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
