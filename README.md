@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Misael Jordy</h1>
-<h3 align="center">Game and Web Developer from Indonesia</h3>
+<h3 align="center">Web Developer/Frontend Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zhenxxx7&label=Profile%20views&color=0e75b6&style=flat" alt="zhenxxx7" /> </p>
 
