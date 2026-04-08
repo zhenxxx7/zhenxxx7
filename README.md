@@ -15,13 +15,13 @@
 - 📫 Reach me at: **zhenxiang@outlook.sg**
 - ⚡ Fun fact: **I'm actually a forgetful person** (that's why I document everything!)
 
-### 🛠️ Tech Stack
+<!-- ### 🛠️ Tech Stack
 
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,react,nextjs,tailwind,nodejs,html,css,git,mysql,py,figma,vscode" />
   </a>
-</p>
+</p> -->
 
 ---
 
@@ -40,7 +40,7 @@
 
 ---
 
-### 🐍 Contribution Snake
+### 🐍 Contribution
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zhenxxx7/zhenxxx7/output/github-contribution-grid-snake-dark.svg">
