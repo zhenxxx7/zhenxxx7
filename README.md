@@ -11,7 +11,7 @@
 
 ### 🚀 About Me
 
-- 🤝 I’m looking for help with [**prompt-architect-pro**](https://github.com/zhenxxx7/prompt-architect-pro.git)
+- 🤝 I’m looking for help with [**virkey-project**](https://github.com/zhenxxx7/the-forge-of-ideas.git)
 - 📫 Reach me at: **zhenxiang@outlook.sg**
 - ⚡ Fun fact: **I'm actually a forgetful person** (that's why I document everything!)
 
